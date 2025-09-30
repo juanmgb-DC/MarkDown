@@ -5,9 +5,10 @@
 ![Image](https://www.zabala.es/wp-content/uploads/2023/11/Inteligencia-artificial-y-consultoria-1200x675.jpg)
 
 
+## - [Introducción](Informacion/Introduccion)
+
+## - [Ventajas](Informacion/Ventajas)
+
+## - [Desventajas](Informacion/Desventajas)
 
 
-
-
-
-                    
