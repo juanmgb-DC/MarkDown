@@ -1,4 +1,4 @@
-# <ins>**Influencia de las IAs en el aprendizaje humano**</ins>
+# <ins>**Influencia de la IA en el aprendizaje humano**</ins>
 
 ## **Estos ultimos años la IA ha tenido un paper muy importante en la enseñanza**
 
@@ -18,4 +18,3 @@
 
 
 > Trabajo creado por Juan Martínez González-Besada
-
